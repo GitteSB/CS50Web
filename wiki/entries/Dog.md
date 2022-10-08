@@ -1,1 +1,0 @@
-Animal that barks
